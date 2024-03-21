@@ -1,0 +1,20 @@
+main {
+    background-color: rgb(49, 112, 112);
+    color: white;
+}
+
+
+.img {
+    border-radius: 50%;
+    height: 300px;
+    padding: 10px;
+}
+
+.description {
+    height: 310px;
+    padding-top: 150px;
+}
+
+.row {
+    background-color: rgb(138, 158, 139);
+}
