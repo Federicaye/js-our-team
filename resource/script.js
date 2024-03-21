@@ -69,5 +69,5 @@ submit.addEventListener("click", (e) => {
     member.push(newMember);
     let description = document.querySelector(".col-4");
     description.innerHTML +=`<div class="description"> ${newMember.nameM} ${newMember.role}</div>`;
-    photo.innerHTML += `<div><img src="img/R.jpg" class="img"></img></div>`;
+    photo.innerHTML += `<div><img src="img/R.jpg"></img></div>`;
 })
